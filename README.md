@@ -1,7 +1,6 @@
 - 👋 Hello! My name is Gabriel Mai
 - 
-- 👀 I’m interested in ...
+- 👀 I’m interested in learning new programming languages
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Node and SQL
-- 💞️ Right now I'm still not working on anything in particular in the area
+- 🏢 Right now I'm still not working on anything in particular in the area but you can check everything I've done so far on my repositories
 - 📫 You can reach me through my e-mail: gabrielmaic@gmail.com
-
